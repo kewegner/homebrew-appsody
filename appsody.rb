@@ -1,9 +1,9 @@
 class Appsody < Formula
     desc "Appsody command-line interface"
     homepage "https://github.com/appsody/appsody#readme"
-    version "0.2.1"
-    url "https://github.com/appsody/appsody/releases/download/0.2.1/appsody-homebrew-0.2.1.tar.gz" 
-    sha256 "6dd63ab02908d4cf14987b052f5b11656b9ca5f88f789e795ede9627d6131adf"
+    version "0.2.7"
+    url "https://github.com/kewegner/appsody/releases/download/0.2.7/appsody-homebrew-0.2.7.tar.gz" 
+    sha256 "7a8327e60dbce1b0376af7821c7de35633555758ef2a82196a74bef1c06b83f9"
   #  url "https://github.com/appsody/appsody/archive/master.zip",
   #      :tag      => "master"
   #      :revision => "b5d4f876f4bfe294b70c092210613e30eceb0dc4"
